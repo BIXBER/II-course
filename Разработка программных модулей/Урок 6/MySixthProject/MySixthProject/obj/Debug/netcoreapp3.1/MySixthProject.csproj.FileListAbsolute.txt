@@ -1,0 +1,14 @@
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\bin\Debug\netcoreapp3.1\MySixthProject.exe
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\bin\Debug\netcoreapp3.1\MySixthProject.deps.json
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\bin\Debug\netcoreapp3.1\MySixthProject.runtimeconfig.json
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\bin\Debug\netcoreapp3.1\MySixthProject.runtimeconfig.dev.json
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\bin\Debug\netcoreapp3.1\MySixthProject.dll
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\bin\Debug\netcoreapp3.1\MySixthProject.pdb
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.csproj.AssemblyReference.cache
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.AssemblyInfoInputs.cache
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.AssemblyInfo.cs
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.csproj.CoreCompileInputs.cache
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.dll
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.pdb
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 6\MySixthProject\MySixthProject\obj\Debug\netcoreapp3.1\MySixthProject.genruntimeconfig.cache
