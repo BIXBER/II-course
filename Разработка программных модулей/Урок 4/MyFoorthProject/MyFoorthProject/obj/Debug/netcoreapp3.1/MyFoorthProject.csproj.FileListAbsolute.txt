@@ -1,0 +1,14 @@
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\bin\Debug\netcoreapp3.1\MyFoorthProject.exe
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\bin\Debug\netcoreapp3.1\MyFoorthProject.deps.json
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\bin\Debug\netcoreapp3.1\MyFoorthProject.runtimeconfig.json
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\bin\Debug\netcoreapp3.1\MyFoorthProject.runtimeconfig.dev.json
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\bin\Debug\netcoreapp3.1\MyFoorthProject.dll
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\bin\Debug\netcoreapp3.1\MyFoorthProject.pdb
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.csproj.AssemblyReference.cache
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.AssemblyInfoInputs.cache
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.AssemblyInfo.cs
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.csproj.CoreCompileInputs.cache
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.dll
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.pdb
+F:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 4\MyFoorthProject\MyFoorthProject\obj\Debug\netcoreapp3.1\MyFoorthProject.genruntimeconfig.cache
