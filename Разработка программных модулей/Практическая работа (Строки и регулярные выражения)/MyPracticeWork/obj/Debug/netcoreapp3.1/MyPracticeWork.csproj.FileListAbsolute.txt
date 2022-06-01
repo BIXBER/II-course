@@ -1,0 +1,14 @@
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\bin\Debug\netcoreapp3.1\MyPracticeWork.exe
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\bin\Debug\netcoreapp3.1\MyPracticeWork.deps.json
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\bin\Debug\netcoreapp3.1\MyPracticeWork.runtimeconfig.json
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\bin\Debug\netcoreapp3.1\MyPracticeWork.runtimeconfig.dev.json
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\bin\Debug\netcoreapp3.1\MyPracticeWork.dll
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\bin\Debug\netcoreapp3.1\MyPracticeWork.pdb
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.csproj.AssemblyReference.cache
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.AssemblyInfoInputs.cache
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.AssemblyInfo.cs
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.csproj.CoreCompileInputs.cache
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.dll
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.pdb
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Практическая работа (Строки и регулярные выражения)\MyPracticeWork\obj\Debug\netcoreapp3.1\MyPracticeWork.genruntimeconfig.cache
