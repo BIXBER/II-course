@@ -1,0 +1,14 @@
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\bin\Debug\netcoreapp3.1\MyTenthProject.exe
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\bin\Debug\netcoreapp3.1\MyTenthProject.deps.json
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\bin\Debug\netcoreapp3.1\MyTenthProject.runtimeconfig.json
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\bin\Debug\netcoreapp3.1\MyTenthProject.runtimeconfig.dev.json
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\bin\Debug\netcoreapp3.1\MyTenthProject.dll
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\bin\Debug\netcoreapp3.1\MyTenthProject.pdb
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.csproj.AssemblyReference.cache
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.AssemblyInfoInputs.cache
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.AssemblyInfo.cs
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.csproj.CoreCompileInputs.cache
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.dll
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.pdb
+D:\Карьера\Учёба\Колледж (КАИТ)\II курс\Разработка программных модулей\Урок 10\MyTenthProject\obj\Debug\netcoreapp3.1\MyTenthProject.genruntimeconfig.cache
